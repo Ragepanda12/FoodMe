@@ -1,0 +1,11 @@
+{
+  "name": "FoodMe",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "react-native-swipe-cards": "0.0.7"
+  }
+}
